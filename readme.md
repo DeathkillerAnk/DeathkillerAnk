@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **a community wide open-source project.**
 
-- You can connect me on [linkedIn](https://www.linkedin.com/in/aniketank/)
+- You can connect me on [linkedIn](https://www.linkedin.com/in/aniketank/) or [email] aniket.g1999@gmail.com
 
 - 👨‍💻 All of my projects are available at (not updated) [http://deathkillerank.github.io](http://deathkillerank.github.io)
 
