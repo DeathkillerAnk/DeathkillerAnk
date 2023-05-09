@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aniket gupta</h1>
+<h1 align="center">Hi 👋, I'm Aniket Gupta</h1>
 <h3 align="center">A passionate full-stack developer with forte in back-end.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deathkillerank&label=Profile%20views&color=0e75b6&style=flat" alt="deathkillerank" /> </p>
