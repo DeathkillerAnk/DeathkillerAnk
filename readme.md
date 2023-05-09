@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at (not updated) [http://deathkillerank.github.io](http://deathkillerank.github.io)
 
-- 📝 I write articles on [TBD](TBD)
+- 📝 I write articles on [Medium](https://medium.com/@aniket.g1999)
 
 - 💬 Ask me about **Java, JS, React, Nodejs**
 
